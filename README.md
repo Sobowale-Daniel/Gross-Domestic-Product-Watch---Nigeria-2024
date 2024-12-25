@@ -25,5 +25,6 @@ The data was first normalized in Excel before being transformed in Power Query.
 ![Data Model](https://github.com/Sobowale-Daniel/Gross-Domestic-Product-Watch---Nigeria-2024/blob/main/Files/Screenshot%202024-12-25%20101800.png)
 ## Dashboard Insights
 ![Dashboard Insight 1](https://github.com/Sobowale-Daniel/Gross-Domestic-Product-Watch---Nigeria-2024/blob/main/Files/Screenshot%202024-12-23%20125209.png)
+![Analysis on Real GDP by Activity Sector](https://github.com/Sobowale-Daniel/Gross-Domestic-Product-Watch---Nigeria-2024/blob/main/Files/Screenshot%202024-12-23%20125333.png)
 
 
