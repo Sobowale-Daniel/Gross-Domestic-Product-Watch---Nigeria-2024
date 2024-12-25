@@ -10,4 +10,7 @@ Perform a detailed quarter-on-quarter comparison for each year to observe econom
 
 -Sector-Specific Analysis:
 Break down GDP data by sector and activity group to pinpoint key contributors to the economy and monitor their performance on a quarterly basis.
+## Tools
+-Power Bi
+-Excel
 
