@@ -38,6 +38,9 @@ To mitigate the impact of these seasonal challenges on crop production and overa
 - Subsidies and Support Programs: Providing financial incentives or subsidies to encourage farmers to plant crops during these quarters can stimulate agricultural activity.
 - Adoption of Agricultural Technologies: Introducing technologies like irrigation systems, greenhouses, or drought-resistant crop varieties can enable farming during less favorable seasons.
 - Farmer Education and Awareness: Organizing workshops and training sessions to educate farmers on innovative farming techniques and strategies for managing low-rainfall periods can boost productivity year-round.
+## Download
+<a href = https://github.com/Sobowale-Daniel/Gross-Domestic-Product-Watch---Nigeria-2024/raw/refs/heads/main/Files/Sobowale%20Daniel%20GRP%20Project.pbix> Download The Power BI File </a>
+
 
 
 
