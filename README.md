@@ -20,5 +20,8 @@ Break down GDP data by sector and activity group to pinpoint key contributors to
 - Bookmarks
 - Report Automation
 - Data Visualization
+## Data Model
+The data was first normalized in Excel before being transformed in Power Query.
+![Data Model]
 
 
