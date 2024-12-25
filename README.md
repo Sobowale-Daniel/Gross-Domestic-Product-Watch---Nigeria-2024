@@ -13,4 +13,12 @@ Break down GDP data by sector and activity group to pinpoint key contributors to
 ## Tools
 - PowerBi
 - Excel
+## Techniques and Skills
+- Data Normalization
+- Data transformation with Power Query
+- Data modelling
+- Bookmarks
+- Report Automation
+- Data Visualization
+
 
